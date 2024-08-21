@@ -7,5 +7,6 @@
     "actdesc-send_to_external": "To [name]",
     "actdesc-send_to_wallet": "To [name]'s Wallet",
     "actdesc-topup": "Top Up [name] [amount]",
-    "add-new-label": "Add New"
+    "add-new-label": "Add New",
+    "sample-new": "sample"
 }
